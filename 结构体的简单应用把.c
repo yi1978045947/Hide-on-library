@@ -14,13 +14,13 @@
 //	return 0;
 //}
 
-typedef struct book
+typedef struct book //类型重命名 把struct book 类型改成book类型，以后创建时book 就是类型
 {
 	char author[50];
 	char name[50];
 	int price;
 	char PublishingHouse[50];
-}book;
+}book;//把 struct book类型重新命名为book
 int main()
 {
 	book b1 = { "谭浩强", "C语言程序设计", 50, "清华大学出版社" };
