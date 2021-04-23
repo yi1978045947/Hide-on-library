@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/4/22 14:11:49。
+     1>项目“D:\visua stdio 2013代码\数据结构之带头双向循环链表\数据结构之带头双向循环链表\数据结构之带头双向循环链表.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt List.c main.c
+         main.c
+     1>d:\visua stdio 2013代码\数据结构之带头双向循环链表\数据结构之带头双向循环链表\main.c(76): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>d:\visua stdio 2013代码\数据结构之带头双向循环链表\数据结构之带头双向循环链表\main.c(87): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+         List.c
+         正在生成代码...
+     1>已完成生成项目“D:\visua stdio 2013代码\数据结构之带头双向循环链表\数据结构之带头双向循环链表\数据结构之带头双向循环链表.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.18
