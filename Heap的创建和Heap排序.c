@@ -43,7 +43,7 @@ void HeapSort(int *arr, int sz)
 		//选出次大的
 		swap(&arr[0], &arr[end]);
 		//最后一个不用交换，所以为n-1个数为end
-		AdjustDown(arr, end, i);
+		AdjustDown(arr, end, 0);
 		end--;
 	}
 }
