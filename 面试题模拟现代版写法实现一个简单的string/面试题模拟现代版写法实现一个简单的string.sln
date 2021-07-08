@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "面试题模拟现代版写法实现一个简单的string", "面试题模拟现代版写法实现一个简单的string\面试题模拟现代版写法实现一个简单的string.vcxproj", "{EC75AAB4-918A-4DB3-B153-D2B7F2E91E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC75AAB4-918A-4DB3-B153-D2B7F2E91E81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EC75AAB4-918A-4DB3-B153-D2B7F2E91E81}.Debug|Win32.Build.0 = Debug|Win32
+		{EC75AAB4-918A-4DB3-B153-D2B7F2E91E81}.Release|Win32.ActiveCfg = Release|Win32
+		{EC75AAB4-918A-4DB3-B153-D2B7F2E91E81}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
