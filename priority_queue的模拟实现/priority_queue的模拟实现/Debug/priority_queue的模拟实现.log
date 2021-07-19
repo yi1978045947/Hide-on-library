@@ -1,0 +1,33 @@
+﻿生成启动时间为 2021/7/19 17:49:07。
+     1>项目“D:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority_queue的模拟实现.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority.h(89): warning C4018: “<”: 有符号/无符号不匹配
+                 d:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority.h(85): 编译类 模板 成员函数“void yyw::priorty_queue<int,std::vector<int,std::allocator<_Ty>>,yyw::less<T>>::AdjustDown(int)”时
+                 with
+                 [
+                     _Ty=int
+         ,            T=int
+                 ]
+                 d:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority.h(49): 参见对正在编译的函数 模板 实例化“void yyw::priorty_queue<int,std::vector<int,std::allocator<_Ty>>,yyw::less<T>>::AdjustDown(int)”的引用
+                 with
+                 [
+                     _Ty=int
+         ,            T=int
+                 ]
+                 d:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority.h(112): 参见对正在编译的类 模板 实例化“yyw::priorty_queue<int,std::vector<int,std::allocator<_Ty>>,yyw::less<T>>”的引用
+                 with
+                 [
+                     _Ty=int
+         ,            T=int
+                 ]
+     1>d:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority.h(92): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\visua stdio 2013代码\priority_queue的模拟实现\Debug\priority_queue的模拟实现.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\visua stdio 2013代码\priority_queue的模拟实现\Debug\priority_queue的模拟实现.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\visua stdio 2013代码\priority_queue的模拟实现\Debug\priority_queue的模拟实现.lib" /MACHINE:X86 "Debug\源.obj"
+         priority_queue的模拟实现.vcxproj -> D:\visua stdio 2013代码\priority_queue的模拟实现\Debug\priority_queue的模拟实现.exe
+     1>已完成生成项目“D:\visua stdio 2013代码\priority_queue的模拟实现\priority_queue的模拟实现\priority_queue的模拟实现.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.87
