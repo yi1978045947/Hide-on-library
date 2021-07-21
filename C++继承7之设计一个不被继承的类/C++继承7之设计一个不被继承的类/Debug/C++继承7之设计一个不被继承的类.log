@@ -1,0 +1,19 @@
+﻿生成启动时间为 2021/7/21 0:05:28。
+     1>项目“D:\visua stdio 2013代码\C++继承7之设计一个不被继承的类\C++继承7之设计一个不被继承的类\C++继承7之设计一个不被继承的类.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(17): warning C4624: “B”: 未能生成析构函数，因为基类析构函数不可访问或已被删除
+     1>d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(17): error C2248: “A::A”: 无法访问 private 成员(在“A”类中声明)
+                 d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(7) : 参见“A::A”的声明
+                 d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(5) : 参见“A”的声明
+                 此诊断出现在编译器生成的函数“B::B(void)”中
+     1>d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(17): error C2248: “A::~A”: 无法访问 private 成员(在“A”类中声明)
+                 d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(9) : 参见“A::~A”的声明
+                 d:\visua stdio 2013代码\c++继承7之设计一个不被继承的类\c++继承7之设计一个不被继承的类\源.cpp(5) : 参见“A”的声明
+                 此诊断出现在编译器生成的函数“B::~B(void)”中
+     1>已完成生成项目“D:\visua stdio 2013代码\C++继承7之设计一个不被继承的类\C++继承7之设计一个不被继承的类\C++继承7之设计一个不被继承的类.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.44
