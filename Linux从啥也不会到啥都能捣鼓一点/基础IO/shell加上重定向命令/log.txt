@@ -1,0 +1,7 @@
+total 28
+drwxrwxr-x  2 yyw yyw 4096 Jun 27 21:17 .
+drwxrwxr-x 18 yyw yyw 4096 Jun 27 20:52 ..
+-rw-rw-r--  1 yyw yyw    0 Jun 27 21:17 log.txt
+-rw-rw-r--  1 yyw yyw   59 Jun 27 20:52 makefile
+-rwxrwxr-x  1 yyw yyw 9000 Jun 27 21:17 test
+-rw-rw-r--  1 yyw yyw 2311 Jun 27 21:17 test.c
