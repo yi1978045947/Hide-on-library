@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/10/5 9:54:13。
+     1>项目“D:\visuProject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(15): error C2535: “CopyBan::CopyBan(const CopyBan &)”: 已经定义或声明成员函数
+                 d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(12) : 参见“CopyBan::CopyBan”的声明
+     1>d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(16): error C2535: “CopyBan CopyBan::operator =(const CopyBan &)”: 已经定义或声明成员函数
+                 d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(13) : 参见“CopyBan::operator =”的声明
+     1>d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(22): error C2248: “CopyBan::CopyBan”: 无法访问 private 成员(在“CopyBan”类中声明)
+                 d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(12) : 参见“CopyBan::CopyBan”的声明
+                 d:\visuproject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\源.cpp(6) : 参见“CopyBan”的声明
+     1>已完成生成项目“D:\visuProject4a stdio 2013代码\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝\特殊类设计之一个类，不能被拷贝.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.47
